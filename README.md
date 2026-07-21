@@ -5,6 +5,8 @@ Hi, I'm TheBlackSwitch, a random guy who loves coding, drawing and tinkering. I 
 
 Go to [theblackswitch.com](https://theblackswitch.com/home) for more info!
 
+You can contact me through the email [support@theblackswitch.com](support@theblackswitch.com), Here [on Github](https://github.com/TheBlackSwitch/TheBlackSwitch/issues/new?template=direct-message.md "Message me!") or on discord under the name ``theblackswitch``
+
 <br>
 
 ## My most popular projects
